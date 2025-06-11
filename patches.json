@@ -1,0 +1,14 @@
+[
+  {
+    "id": 4,
+    "name": "Monthly Security Rollup KB9901",
+    "severity": "Medium",
+    "product": "Windows 10"
+  },
+  {
+    "id": 0,
+    "name": "string",
+    "severity": "string",
+    "product": "string"
+  }
+]
